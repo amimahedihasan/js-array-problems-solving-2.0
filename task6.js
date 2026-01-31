@@ -18,6 +18,7 @@ let student = [
    { name: "John", marks: 85 },
   { name: "Alice", marks: 90 }
 ]
-// console.log(student[0].name , "Scored " ,student[0].marks)
-// console.log(student[1].name ,"Scored " , student[1].marks )  
-console.log(student.name) //why
+// console.log(student[0])
+console.log(student[0].name , "Scored " ,student[0].marks)
+console.log(student[1].name ,"Scored " , student[1].marks )  
+
